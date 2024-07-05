@@ -1,2 +1,4 @@
-# pibb
-Site landing page da Primeira Igreja Batista do Barreto
+# Site da Primeira Igreja Batista do Barreto
+
+## Tecnologia
+- Utilização do React
