@@ -1,0 +1,13 @@
+.corpo{
+    background-color: #D9D9D9;
+}
+
+.texto{
+    display: flex;;
+    margin-left: 20px;
+    margin-top: 40px;
+    font-size: 36px;
+    font-family: Arial, sans-serif;
+    color: #53300F;
+    
+}
