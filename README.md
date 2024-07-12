@@ -1,4 +1,5 @@
 # Site da Primeira Igreja Batista do Barreto
 
 ## Tecnologia
-- Utilização do React
+- Frontend: React
+- Backend previsto: DRF
